@@ -10,7 +10,7 @@ To play the game, use this command in a LINUX terminal:
 
 
 ```bash
-pyhton3 main.py
+python3 main.py
 ```
 
 Game will now begin.
